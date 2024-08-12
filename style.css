@@ -1,6 +1,6 @@
 body {
   color: white;
-  background: black;
+  background: rgb(25, 0, 71);
   margin: 0px;
 }
 
@@ -12,11 +12,11 @@ header {
 }
 
 section {
-  background: rgb(184,156,213);
-  padding-bottom: 80px;
-  padding-top: 80px;
-  display: flex;
-  justify-content: center;
+background: rgb(184,156,213);
+padding-bottom: 80px;
+padding-top: 80px;
+display: flex;
+justify-content: center;
 }
 
 .chamada-texto {
